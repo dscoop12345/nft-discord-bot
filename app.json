@@ -18,8 +18,8 @@
       "description": "Pretty self explanatory",
       "required": true
     },
-    "DISCORD_SALES_CHANNEL_ID": {
-      "description": "The discord channel id where sales events should be posted to, should look like a long number",
+    "DISCORD_LISTING_CHANNEL_ID": {
+      "description": "The discord channel id where listing events should be posted to, should look like a long number",
       "required": true
     },
     "DISCORD_TOKEN_COMMAND": {
